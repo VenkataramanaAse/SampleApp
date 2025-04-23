@@ -30,7 +30,7 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.example.demo.Entity.User;
-import com.example.demo.Repos.Loginrepo;
+
 import com.example.demo.Service.User_Service;
 import io.swagger.v3.oas.models.annotations.OpenAPI30;
 import io.swagger.v3.oas.models.media.MediaType;
